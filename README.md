@@ -15,13 +15,13 @@ To start this game you need install pygame and after this run a game_loop.py fil
 * games end when there’s only one player not bancrupt
 
 # game screenshot
-![](https://github.com/DaDudek/Python/blob/master/Monopoly_Board/screenshot/free_cell.png)
+![](https://github.com/DaDudek/Python/blob/master/screenshot/free_cell.png)
 
 
-![](https://github.com/DaDudek/Python/blob/master/Monopoly_Board/screenshot/main_screen.png)
+![](https://github.com/DaDudek/Python/blob/master/screenshot/main_screen.png)
 
 
-![](https://github.com/DaDudek/Python/blob/master/Monopoly_Board/screenshot/menu.png)
+![](https://github.com/DaDudek/Python/blob/master/screenshot/menu.png)
 
 
-![](https://github.com/DaDudek/Python/blob/master/Monopoly_Board/screenshot/property.png)
+![](https://github.com/DaDudek/Python/blob/master/screenshot/property.png)
